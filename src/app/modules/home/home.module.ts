@@ -6,18 +6,14 @@ import { TodoInputAddItensComponent } from './components/todo-input-add-itens/to
 import { TodoListComponent } from './components/todo-list/todo-list.component';
 import { HomeComponent } from './pages/home/home.component';
 
-
-
 @NgModule({
   declarations: [
     HeaderComponent,
     TodoButtonDeleteAllComponent,
     TodoInputAddItensComponent,
     TodoListComponent,
-    HomeComponent
+    HomeComponent,
   ],
-  imports: [
-    CommonModule
-  ]
+  imports: [CommonModule],
 })
-export class HomeModule { }
+export class HomeModule {}
