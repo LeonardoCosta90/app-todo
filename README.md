@@ -3,5 +3,5 @@
   <br>
     Projeto Prático: Portfólio
   <br>
-  https://https://app-todo-leo.vercel.app/
+  https://app-todo-leo.vercel.app/
 </h1>
